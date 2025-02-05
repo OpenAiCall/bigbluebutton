@@ -1,4 +1,4 @@
-BigBlueButton
+BigBlueButton视频会议系统
 =============
 BigBlueButton is an open-source virtual classroom designed to help teachers teach and learners learn.  
 
